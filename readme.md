@@ -3,6 +3,7 @@
 ## Resources
 
 - [Dotfiles on GitHub](https://dotfiles.github.io/)
+<<<<<<< HEAD
 
 
 ## TODO
@@ -19,3 +20,7 @@
 - [ ] ESLint
 - [ ] [aliases example](https://github.com/mathiasbynens/dotfiles/blob/master/.aliases)
 - [ ] Clone [my lists](https://github.com/ocpineda/my-lists) to `~/src`
+=======
+- [Best way to store dotfiles](https://developer.atlassian.com/blog/2016/02/best-way-to-store-dotfiles-git-bare-repo/)
+- [YADM manager](https://thelocehiliosan.github.io/yadm/)
+>>>>>>> ca13963b86971fdbbf34ff85a7c09928eaf3d939
