@@ -3,3 +3,19 @@
 ## Resources
 
 - [Dotfiles on GitHub](https://dotfiles.github.io/)
+
+
+## TODO
+
+- [ ] zsh config and dotfile
+- [ ] .sh to create `~/src'
+- [ ] Add notes from [Gitlab](https://gitlab.com/oscarneedscoffee/notes) to clone to `~/src`
+- [ ] Add [cheatsheets](https://github.com/ocpineda/cheat-sheets)
+- [ ] Add install for Node
+- [ ] Add install for [Homebrew](https://github.com/mathiasbynens/dotfiles/blob/master/brew.sh)
+- [ ] OSX defaults [example here](https://github.com/nicksp/dotfiles/blob/master/osx/set-defaults.sh)
+- [ ] Find iTerm configs and make file
+- [ ] [.editorconfig](https://github.com/ocpineda/js-tutorial/blob/master/.editorconfig)
+- [ ] ESLint
+- [ ] [aliases example](https://github.com/mathiasbynens/dotfiles/blob/master/.aliases)
+- [ ] Clone [my lists](https://github.com/ocpineda/my-lists) to `~/src`
