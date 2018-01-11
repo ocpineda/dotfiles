@@ -21,3 +21,4 @@
 - [ ] ESLint
 - [ ] [aliases example](https://github.com/mathiasbynens/dotfiles/blob/master/.aliases)
 - [ ] Clone [my lists](https://github.com/ocpineda/my-lists) to `~/src`
+- [ ] install global gitignore
