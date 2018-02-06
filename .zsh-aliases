@@ -1,0 +1,31 @@
+# Add the following to your .zshrc and uncomment to this file
+# 
+# if [ -f ~/src/dotfiles/.zsh-aliases ]; then
+#   source ~/src/dotfiles/.zsh-aliases
+# else
+#   print "404: ~/src/dotfiles/.zsh-aliases not found."
+# fi#
+#
+
+
+#work
+alias mobtool="cd ~/Code/getools/mobtool"
+alias moves="cd ~/Code/getools/gemoves/gemovesV2"
+alias todo="vim ~/Box\ Sync/todo.md"
+alias proj="cd ~/Box\ Sync/projects"
+alias gemjobs="cd ~/Box\ Sync/projects/GE-moves/gem-jobs"
+alias mtjobs="cd ~/Box\ Sync/projects/mobilization-tool/jobs"
+
+# Universal personal shortcuts
+alias testing="cd ~/src/test"
+alias bd="vim ~/src/brain-dump/brain-dump.md"
+alias cheat="cd ~/src/cheat-sheets"
+alias vimcheat="vim ~/src/cheat-sheets/vim.md"
+
+
+
+#Maven
+export PATH=$PATH:/Users/oscarpineda/bin/apache-maven-3.5.2/bin
+
+# JAVA
+JAVA_HOME=/Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/
