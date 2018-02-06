@@ -1,4 +1,4 @@
-# Add the following to your .zshrc and uncomment to this file
+# Add the following to your .zshrc and uncomment
 # 
 # if [ -f ~/src/dotfiles/.zsh-aliases ]; then
 #   source ~/src/dotfiles/.zsh-aliases
