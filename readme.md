@@ -10,6 +10,7 @@
 ## TODO
 
 - [ ] zsh config and dotfile
+  - [ ] Add JAVA HOME to .zsh
 - [ ] .sh to create `~/src'
 - [ ] Add notes from [Gitlab](https://gitlab.com/oscarneedscoffee/notes) to clone to `~/src`
 - [ ] Add [cheatsheets](https://github.com/ocpineda/cheat-sheets)
@@ -22,3 +23,4 @@
 - [ ] [aliases example](https://github.com/mathiasbynens/dotfiles/blob/master/.aliases)
 - [ ] Clone [my lists](https://github.com/ocpineda/my-lists) to `~/src`
 - [ ] install global gitignore
+

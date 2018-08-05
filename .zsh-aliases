@@ -1,0 +1,29 @@
+# Here is where I keep some common settings, as well as any custom configurations.
+# Having this file will allow me to keep my .zshrc relatively clean and ready for upgrades
+#
+#  Copy this file to your desired location (I like to keep it in my home directory)
+
+
+# Add the following to your .zshrc and uncomment
+# 
+# if [ -f ~/.zsh-aliases ]; then
+#   source ~/.zsh-aliases
+# else
+#   print "404: ~/.zsh-aliases not found."
+# fi#
+#
+
+# Universal personal shortcuts
+alias testing="cd ~/src/test"
+alias bd="vim ~/src/brain-dump/brain-dump.md"
+alias cheat="cd ~/src/cheat-sheets"
+alias vimcheat="vim ~/src/cheat-sheets/vim.md"
+
+#Maven
+export PATH=$PATH:/Users/oscarpineda/bin/apache-maven-3.5.2/bin
+
+# JAVA OS X
+JAVA_HOME=/Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/
+
+# Custom settings
+
