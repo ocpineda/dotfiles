@@ -1,4 +1,7 @@
 # Readme
+This file is kept [here:](https://github.com/ocpineda/dotfiles) 
+I'm trying to keep my dot files organized. Please see the readme in the `install` directory.
+
 
 ## Resources
 
