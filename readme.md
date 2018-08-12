@@ -1,7 +1,18 @@
 # Readme
 This file is kept [here:](https://github.com/ocpineda/dotfiles) 
-I'm trying to keep my dot files organized. Please see the readme in the `install` directory.
+I'm trying to keep my dot files organized. Please see the readme in the `install` directory, and follow those
+instructions to add dotfiles to a new computer. 
 
+Add the following to your .zshrc to include .zsh-aliases
+```text
+ if [ -f ~/.zsh-aliases ]; then
+   source ~/.zsh-aliases
+ else
+   print "404: ~/.zsh-aliases not found."
+ fi#
+```
+
+I pretty much set up my dotfiles as suggested in the Atlassian blog [Best way to store dotfiles](https://developer.atlassian.com/blog/2016/02/best-way-to-store-dotfiles-git-bare-repo/)
 
 ## Resources
 
