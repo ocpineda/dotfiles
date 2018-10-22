@@ -21,6 +21,18 @@ I pretty much set up my dotfiles as suggested in the Atlassian blog [Best way to
 - [YADM manager](https://thelocehiliosan.github.io/yadm/)
 - [Vundle Installer for Vim](https://c7.se/switching-to-vundle/)
 
+## Apps I usually install
+
+- Angular
+- Docker
+- Homebrew for Mac
+- iTerm for Mac
+- Java
+- NPM
+- Oh My Zsh
+- [Taskbook CLI todos](https://github.com/klauscfhq/taskbook)
+- VS Code
+
 ## TODO
 
 - [ ] zsh config and dotfile
