@@ -9,7 +9,7 @@ Add the following to your .zshrc to include .zsh-aliases
    source ~/.zsh-aliases
  else
    print "404: ~/.zsh-aliases not found."
- fi#
+ fi
 ```
 
 I pretty much set up my dotfiles as suggested in the Atlassian blog [Best way to store dotfiles](https://developer.atlassian.com/blog/2016/02/best-way-to-store-dotfiles-git-bare-repo/)
