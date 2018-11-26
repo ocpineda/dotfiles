@@ -20,5 +20,7 @@ fi
 
 echo $todo
 
+# install vundle. Run ":BundleUpdate" and ":BundleClean" after 
+# this script
 mkdir ~/.vim/bundle
 git clone https://github.com/gmarik/vundle.git ~/.vim/bundle/vundle
